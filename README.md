@@ -1,4 +1,4 @@
-# OOP-To-Do-List-in-JS
+# To-Do-List-in-JS
 Simple To-Do List in JavaScript
 
 Create / Read / Update / Delete
